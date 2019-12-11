@@ -1,0 +1,237 @@
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1088" viewBox="0 0 1920 1088">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#Naamloos_verloop);
+      }
+
+      .cls-3 {
+        fill: #6b253e;
+      }
+
+      .cls-4 {
+        fill: #891f4a;
+      }
+
+      .cls-5 {
+        fill: #c94b7e;
+      }
+
+      .cls-6 {
+        fill: #0e1335;
+      }
+
+      .cls-7 {
+        fill: #af3863;
+      }
+
+      .cls-8 {
+        fill: #5bfdb2;
+      }
+
+      .cls-9 {
+        fill: #32a56b;
+      }
+
+      .cls-10 {
+        fill: #27724b;
+      }
+
+      .cls-11 {
+        fill: #3e7056;
+      }
+
+      .cls-12 {
+        fill: #e22e5d;
+      }
+
+      .cls-13 {
+        fill: #b7325b;
+      }
+
+      .cls-14 {
+        fill: #408e67;
+      }
+
+      .cls-15 {
+        fill: #a8385b;
+      }
+
+      .cls-16 {
+        fill: #3a845f;
+      }
+
+      .cls-17 {
+        fill: #48a376;
+      }
+
+      .cls-18 {
+        fill: #45936c;
+      }
+
+      .cls-19 {
+        fill: #3c7056;
+      }
+
+      .cls-20 {
+        fill: #449369;
+      }
+
+      .cls-21 {
+        opacity: 0.43;
+        isolation: isolate;
+        fill: url(#Naamloos_verloop_2);
+      }
+
+      .cls-22 {
+        fill: #ed2f6a;
+      }
+
+      .cls-23 {
+        fill: #ad3158;
+      }
+
+      .cls-24 {
+        fill: #72243c;
+      }
+
+      .cls-25 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-26 {
+        fill: #0a0b3b;
+      }
+
+      .cls-27 {
+        fill: #13134c;
+      }
+    </style>
+    <linearGradient id="Naamloos_verloop" data-name="Naamloos verloop" x1="960" y1="-1946" x2="960" y2="-866" gradientTransform="translate(0 1946)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070923"/>
+      <stop offset="0.38" stop-color="#080b24"/>
+      <stop offset="0.51" stop-color="#0b1228"/>
+      <stop offset="0.61" stop-color="#101d2f"/>
+      <stop offset="0.69" stop-color="#172e39"/>
+      <stop offset="0.76" stop-color="#204445"/>
+      <stop offset="0.82" stop-color="#2b6055"/>
+      <stop offset="0.87" stop-color="#398068"/>
+      <stop offset="0.92" stop-color="#49a67e"/>
+      <stop offset="0.96" stop-color="#5acf96"/>
+      <stop offset="1" stop-color="#6bf7ad"/>
+    </linearGradient>
+    <linearGradient id="Naamloos_verloop_2" data-name="Naamloos verloop 2" x1="1581.42" y1="-514.22" x2="1580.9" y2="-332.34" gradientTransform="matrix(1.52, -0.47, 2.42, 7.89, -335.66, 4505.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070923" stop-opacity="0"/>
+      <stop offset="0.32" stop-color="#080c25" stop-opacity="0.01"/>
+      <stop offset="0.47" stop-color="#0d162b" stop-opacity="0.04"/>
+      <stop offset="0.59" stop-color="#142835" stop-opacity="0.09"/>
+      <stop offset="0.69" stop-color="#1f4144" stop-opacity="0.17"/>
+      <stop offset="0.78" stop-color="#2d6257" stop-opacity="0.26"/>
+      <stop offset="0.85" stop-color="#3e8b6e" stop-opacity="0.38"/>
+      <stop offset="0.93" stop-color="#52bb8a" stop-opacity="0.52"/>
+      <stop offset="0.99" stop-color="#69f1aa" stop-opacity="0.68"/>
+      <stop offset="1" stop-color="#6bf7ad" stop-opacity="0.7"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="150.12" y="71.5" width="1721.54" height="2089.65" transform="translate(-380.68 1692.18) rotate(-70.32)"/>
+    </clipPath>
+  </defs>
+  <title>skyline_plzfix</title>
+  <g id="stuff">
+    <g id="bg">
+      <rect class="cls-2" width="1920" height="1080"/>
+    </g>
+    <polygon class="cls-3" points="85 909.3 55.5 909.3 62.5 853.3 76.6 853.3 85 909.3"/>
+    <polygon class="cls-4" points="62.6 909.3 33 909.3 40.1 853.3 54.2 853.3 62.6 909.3"/>
+    <polygon class="cls-3" points="206 909.3 176.5 909.3 183.5 853.3 197.6 853.3 206 909.3"/>
+    <polygon class="cls-4" points="183.6 909.3 154 909.3 161.1 853.3 175.2 853.3 183.6 909.3"/>
+    <rect class="cls-5" x="-2" y="849.3" width="369" height="7"/>
+    <polygon class="cls-6" points="939 663.3 939 900.3 855 900.3 855 641.3 905 641.3 905 663.3 939 663.3"/>
+    <rect class="cls-6" x="329" y="823.3" width="76" height="76"/>
+    <rect class="cls-6" x="387" y="770.3" width="76" height="129"/>
+    <rect class="cls-6" x="444" y="790.3" width="76" height="109"/>
+    <rect class="cls-6" x="520" y="844.3" width="76" height="55"/>
+    <rect class="cls-6" x="574" y="790.3" width="76" height="109"/>
+    <polygon class="cls-6" points="715 791.3 715 899.3 639 899.3 639 771.3 683 771.3 683 791.3 715 791.3"/>
+    <rect class="cls-6" x="975" y="718.3" width="36" height="181"/>
+    <polygon class="cls-6" points="709 739.2 709 900.3 770 900.3 770 709.3 734.7 709.3 734.7 739.2 709 739.2"/>
+    <rect class="cls-6" x="770" y="807.3" width="52" height="92"/>
+    <rect class="cls-6" x="793" y="758.3" width="52" height="141"/>
+    <rect class="cls-7" x="165" y="736.3" width="8" height="113"/>
+    <rect class="cls-6" x="845" y="825.3" width="27" height="74"/>
+    <rect class="cls-6" x="939" y="785.3" width="36" height="114"/>
+    <rect class="cls-6" x="1011" y="790.3" width="33" height="109"/>
+    <rect class="cls-6" x="1044" y="758.3" width="36" height="141"/>
+    <rect class="cls-6" x="1080" y="671.3" width="51" height="229"/>
+    <rect class="cls-6" x="1131" y="546.3" width="46" height="353"/>
+    <rect class="cls-6" x="1177" y="642.3" width="50" height="257"/>
+    <rect class="cls-6" x="1227" y="775.3" width="46" height="124"/>
+    <rect class="cls-6" x="1266" y="721.3" width="59" height="178"/>
+    <rect class="cls-6" x="1325" y="580.3" width="49" height="319"/>
+    <rect class="cls-6" x="1374" y="673.3" width="41" height="226"/>
+    <rect class="cls-6" x="1415" y="642.3" width="41" height="257"/>
+    <rect class="cls-6" x="1636" y="753.3" width="74" height="146"/>
+    <rect class="cls-6" x="1730" y="508.3" width="85" height="391"/>
+    <rect class="cls-6" x="1689" y="642.3" width="41" height="257"/>
+    <rect class="cls-6" x="1456" y="757.3" width="33" height="143"/>
+    <rect class="cls-6" x="1489" y="703.3" width="45" height="196"/>
+    <rect class="cls-6" x="1534" y="775.3" width="49" height="124"/>
+    <polygon class="cls-6" points="1657 899.3 1567 899.3 1612 164.3 1657 899.3"/>
+    <rect class="cls-6" x="1815" y="766.3" width="40" height="133"/>
+    <rect class="cls-6" x="1843" y="587.3" width="46" height="312"/>
+    <rect class="cls-6" x="1889" y="703.3" width="29" height="196"/>
+    <rect class="cls-3" x="187" y="736.3" width="8" height="113"/>
+    <rect class="cls-7" x="168" y="743.5" width="23" height="11.4"/>
+    <rect class="cls-7" x="43" y="736.3" width="8" height="113"/>
+    <rect class="cls-3" x="65" y="736.3" width="8" height="113"/>
+    <rect class="cls-7 start" x="46" y="743.5" width="23" height="11.4"/>
+    <rect class="cls-8" x="395" y="776.3" width="18" height="8"/>
+    <rect class="cls-9" x="715" y="766.3" width="18" height="8"/>
+    <rect class="cls-9" x="863" y="660.3" width="18" height="8"/>
+    <rect class="cls-10" x="913" y="671.3" width="18" height="8"/>
+    <rect class="cls-11" x="339" y="831.3" width="22" height="8"/>
+    <rect class="cls-11" x="585" y="798.3" width="22" height="8"/>
+    <rect class="cls-9" x="489" y="798.3" width="22" height="8"/>
+    <rect class="cls-8" x="861" y="738.3" width="22" height="8"/>
+    <rect class="cls-8" x="715" y="742.3" width="18" height="8"/>
+    <rect class="cls-8" x="1193" y="646.3" width="25" height="8"/>
+    <rect class="cls-8" x="1099" y="717.3" width="25" height="8"/>
+    <rect class="cls-8" x="1274" y="734.3" width="25" height="8"/>
+    <rect class="cls-12" x="1434" y="645.3" width="18" height="8"/>
+    <rect class="cls-13" x="1376" y="677.3" width="18" height="8"/>
+    <rect class="cls-12" x="1512" y="706.3" width="18" height="8"/>
+    <rect class="cls-14" x="1554" y="841.3" width="18" height="8"/>
+    <rect class="cls-15" x="1695" y="650.3" width="18" height="8"/>
+    <rect class="cls-15" x="1496" y="787.3" width="18" height="8"/>
+    <rect class="cls-12" x="1784" y="519.3" width="18" height="8"/>
+    <rect class="cls-8" x="1784" y="549.3" width="18" height="8"/>
+    <rect class="cls-12" x="1846" y="594.3" width="18" height="8"/>
+    <rect class="cls-8" x="1866" y="628.3" width="18" height="8"/>
+    <rect class="cls-8" x="1784" y="677.3" width="18" height="8"/>
+    <rect class="cls-8" x="1895" y="713.3" width="18" height="8"/>
+    <rect class="cls-14" x="1767" y="798.3" width="18" height="8"/>
+    <rect class="cls-16" x="1341" y="755.3" width="18" height="8"/>
+    <rect class="cls-14" x="1417" y="771.3" width="18" height="8"/>
+    <rect class="cls-17" x="1244" y="783.3" width="18" height="8"/>
+    <rect class="cls-18" x="1376" y="689.3" width="18" height="8"/>
+    <rect class="cls-12" x="1331" y="590.3" width="18" height="8"/>
+    <rect class="cls-18" x="1350" y="612.3" width="18" height="8"/>
+    <rect class="cls-19" x="1180" y="794.3" width="25" height="8"/>
+    <rect class="cls-8" x="995" y="721.3" width="13" height="8"/>
+    <rect class="cls-20" x="979" y="767.3" width="13" height="8"/>
+    <rect class="cls-8" x="1137" y="553.3" width="13" height="8"/>
+    <rect class="cls-11" x="646" y="835.3" width="22" height="8"/>
+    <rect class="cls-11" x="421" y="868.3" width="22" height="8"/>
+    <path class="cls-22 end" d="M1580,323.3h64a2,2,0,0,1,2,2h0a2,2,0,0,1-2,2h-64a2,2,0,0,1-2-2h0A2,2,0,0,1,1580,323.3Z"/>
+    <path class="cls-23" d="M1580,423.3h64a2,2,0,0,1,2,2h0a2,2,0,0,1-2,2h-64a2,2,0,0,1-2-2h0A2,2,0,0,1,1580,423.3Z"/>
+    <path class="cls-24" d="M1580,523.3h64a2,2,0,0,1,2,2h0a2,2,0,0,1-2,2h-64a2,2,0,0,1-2-2h0A2,2,0,0,1,1580,523.3Z"/>
+    <g class="cls-25">
+      <rect class="cls-26" x="-12" y="909.3" width="1934" height="206.9"/>
+    </g>
+    <path class="cls-27" d="M1921,909.3H246a10,10,0,0,1,10-10H1921Z"/>
+  </g>
+</svg>

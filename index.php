@@ -9,7 +9,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <?php include "skyline.svg"; // Dit wordt geinclude met php omdat mijn editer de SVG niet aankon ?>
+    <div class='skyline-container'>
+    <?php include "skyline_plzfix-01.svg"; // Dit wordt geinclude met php omdat mijn editer de SVG niet aankon ?>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>
