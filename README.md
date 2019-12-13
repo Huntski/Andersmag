@@ -1,3 +1,3 @@
 # Andersmag
 
-http://wiebe.happyfolio.nl/school/andersmag
+https://wieberanzijn.com/school/andersmag
